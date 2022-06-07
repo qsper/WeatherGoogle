@@ -1,0 +1,4 @@
+
+
+a = 'siema'
+print(a)
