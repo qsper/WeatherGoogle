@@ -21,5 +21,6 @@ class Weather():
 weather = Weather()
 city1 = weather.get_weather('Warszawa')
 city2 = weather.get_weather('Kraków')
-print(f'{city1} \n{city2}')
+city3 = weather.get_weather('Wrocław')
+print(f'{city1} \n{city2} \n{city3}')
 
